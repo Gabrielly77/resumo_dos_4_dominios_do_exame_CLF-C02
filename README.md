@@ -1,4 +1,4 @@
-# resumo_dos_4_dominios_do_exame_AWS_Cloud_Practitioner_CLF-C02
+# resumo_dos_4_dominios_do_exame_CLF-C02
 
 # Domínio 1: Conceitos de Nuvem
 Escalabilidade
