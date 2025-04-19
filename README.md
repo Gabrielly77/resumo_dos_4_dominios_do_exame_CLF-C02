@@ -1,0 +1,1 @@
+# resumo_dos_quatro_dom-nios_do_exame_AWS_Cloud_Practitioner_CLF-C02
